@@ -1,0 +1,36 @@
+# Archivos de compilación
+/build
+/app/build
+
+# Archivos de Gradle
+.gradle/
+local.properties
+
+# Configuración de Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Logs y otros archivos temporales
+*.log
+*.temp
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+captures/
+.externalNativeBuild
+.cxx/
+
+# NDK
+obj/
+
+# APK / paquetes
+*.apk
+*.ap_
+*.aab
+
+# Cache
+*.dex
+*.class
